@@ -1,0 +1,39 @@
+refillBalance();
+refillStock();
+setSelectedItem(int row,int col);
+
+onMoneyClick->
+            if(validateMoney(Money money))
+            {
+                updateMoneySlotBalance();
+                updateCurrentBalance();
+            }
+
+
+onConfirmClick->
+            if(acceptMoney && availableItems>0)
+            {
+                if(payWithCard.isSelected()
+                {
+                    purchase(int row,int col);
+                    updateBalance();
+                    updateStock();
+                    returnChange();
+                    clearMoneySlot();
+
+                }
+
+                 if(payWithCash.isSelected()
+                 {
+                     purchaseWithCard(int row,int col);
+                     updateBalance();
+                     updateStock();
+                 }
+
+
+            }
+
+onCancelClick->
+            cleanMoneySlot();
+            revertBalance();
+            cleanFields();

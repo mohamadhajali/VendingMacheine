@@ -1,0 +1,25 @@
+Laviva,0.75,1,3
+Power Bar,2.5,3,5,4
+M&m,2.5,3,5,5
+Twix,2.5,3,5,4
+KitKat,4,3,3,6
+Chetos,5.5,7,3,5
+Butterfinger,1.5,10,5
+7Days,2.5,3,5
+Banana fritter,4,10,5
+Badusha,1,3,9
+Bonda,3,8,2
+Cokodok,4,10,3
+Crêpe,1,2,7
+Doughnut,6,9,1
+Gulab Jamun,4,7,5
+Pancakes,8,12,5
+Pizza,8,20,4
+Sopaipilla,5,7,2
+Waffle,7,10,3
+Candy,4,6,10
+Chocolate truffle,1,5,6
+Grass jelly,4,6,2
+Marshmallow,2,4,3
+Panforte,1,2,4
+Toffee,4,5,6
